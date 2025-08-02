@@ -35,16 +35,5 @@ A fun ad concept showing off 3 donut flavors in a minimalist, eye-catching layou
 
 ---
 
-## 📹 Demo Videos
-If you'd like to watch the screen recordings of these designs in action, check out the `/videos` folder in this repository.
 
-> 🔐 Make sure your Figma links are set to **"Anyone with the link can view"** before sharing publicly.
 
----
-
-## 📫 Let’s Connect
-If you liked these projects or have feedback, feel free to reach out!
-
-- 🌐 [LinkedIn](www.linkedin.com/in/karmugilan-v-v)
-
----
