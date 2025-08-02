@@ -14,7 +14,7 @@ A bold, energetic e-commerce site focused on sports goods. Includes homepage, pr
 
 ---
 
-## 🤖 2. DOAREAMON DEVICES – Gadget Showcase
+## 🤖 2. DORAEMON DEVICES – Gadget Showcase
 A futuristic showcase of Doraemon-inspired gadgets. Clean layout with interactive device previews.
 
 🔗 [View Figma Design](https://www.figma.com/proto/bNU1ZB63etMpxnLwZba468?node-id=0-1&t=okf8D9mc6zOpZoiH-6)
@@ -28,7 +28,7 @@ Modern UI for a food delivery app with smooth navigation, location-based deliver
 
 ---
 
-## 🍩 4. Donat Add – Donut Variety Promo
+## 🍩 4. Donut Add – Donut Variety Promo
 A fun ad concept showing off 3 donut flavors in a minimalist, eye-catching layout.
 
 🔗 [View Figma Design](https://www.figma.com/proto/UrH6cvRYdIcIUpOExsxifJ?node-id=0-1&t=okf8D9mc6zOpZoiH-6)
